@@ -3,7 +3,6 @@ package cz.ptszsoft.ipv6call.client;
 import javax.swing.SwingUtilities;
 import javax.xml.ws.Endpoint;
 
-import cz.genisoft.library.ip.IPv6info;
 import cz.ptszsoft.ipv6call.client.webservice.WebServiceImplementation;
 
 public class ReceiverPublisher {
