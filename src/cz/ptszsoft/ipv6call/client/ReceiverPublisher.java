@@ -9,7 +9,7 @@ public class ReceiverPublisher {
 
 	public static void main(String[] args) {
 		try {
-			String wsURL = "https://[" + IPv6info.getLocalIPv6() + "]:9997/ipv6client";
+			String wsURL = "http://[" + IPv6info.getLocalIPv6() + "]:9997/ipv6client";
 			System.out.println(wsURL + "?wsdl");
 			Endpoint.publish(wsURL, new WebServiceImplementation());
 			SwingUtilities.invokeLater(new Runnable() {
