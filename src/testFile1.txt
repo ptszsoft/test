@@ -1,20 +1,8 @@
 testFile1.txt
 1 PROD-SK
-1 PROD-SK
-1 PROD-SK
-1 PROD-SK
-1 PROD-SK
 2
   a.CZ
   b.CZ
-  d. SK
-  e. SK
-  d. SK
-  e. SK
-  d. SK
-  e. SK
-  d. SK
-  e. SK
 3
 4
 5
