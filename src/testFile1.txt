@@ -5,6 +5,8 @@ testFile1.txt
   b.CZ
 3
 4
+  a.
+  b.
 5
 6
 7
