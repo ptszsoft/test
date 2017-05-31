@@ -1,6 +1,8 @@
-testFile1.txt Master
-1
+testFile1.txt
+1 PROD CZ
 2
+  a.CZ
+  b.CZ
 3
 4
 5
