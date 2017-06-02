@@ -3,6 +3,9 @@ testFile2.txt
 2
 3
 4
+ 	a
+ 	a
+ 	helloword
 5
 6
 7
